@@ -1,2 +1,2 @@
-# OpenRCT2
-OpenRCT2 projects
+# RollerCoasterTycoon
+RCT projects
